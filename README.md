@@ -2,9 +2,9 @@
 
 [Publications](#publications) - [Patents](#patents) - [Talks](#talks)
 
-[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
-
 Computational Neuroscientist, Machine Learning Researcher
+
+[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
 
 <img src="hlee-utah2.jpg" alt="Photo" width="200px" />
 
