@@ -1,7 +1,8 @@
 # Heonsoo Lee
 
 [Publications](#publications) - [Patents](#patents)
-[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar(https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
+
+[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
 
 Computational Neuroscientist, Machine Learning Researcher
 
@@ -36,7 +37,7 @@ Computational Neuroscientist, Machine Learning Researcher
 
 - Pal D, Silverstein BH, Lee H, Mashour GA. (2016) [Neural correlate of wakefulness, sleep, and general anesthesia](https://pubs.asahq.org/anesthesiology/article/125/5/929/19746/Neural-Correlates-of-Wakefulness-Sleep-and-General). Anesthesiology, 125 (5), 929-942
 
-- Wang J, Lee H*, Kim S. (2015) [Assessing performance of directed functional connectivity measures in the presence of common source](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P124). BMC neuroscience, 16 (1), 124 (Conference proceeding)
+- Wang J, Lee H*, Kim S. (2015) [Assessing performance of directed functional connectivity measures in the presence of common source](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P124). BMC neuroscience, 16 (1), 124
 
 - Lee H, Mashour GA, Noh GJ, Kim S, Lee U. (2013) [Reconfiguration of network hub structure after propofol-induced unconsciousness](https://doi.org/10.1097/aln.0b013e3182a8ec8c). Anesthesiology, 119 (6), 1347-1359
 
