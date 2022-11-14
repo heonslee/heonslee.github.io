@@ -39,6 +39,7 @@ Computational Neuroscientist, Machine Learning Researcher
 - Lee H*, Noh GJ, Joo P, Choi BM, Silverstein BH, Kim M, Wang J, Jung WS, Kim S. (2017) [Diversity of functional connectivity patterns is reduced in propofol-induced unconsciousness](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23708). Human brain mapping, 38 (10), 4980-4995 
 
 - Wang J, Noh GJ, Choi BM, Ku SW, Joo P, Jung WS, Kim S, Lee H*. (2017) [Suppressed neural complexity during ketamine- and propofol-induced unconsciousness](https://www.sciencedirect.com/science/article/pii/S030439401730441X). Neuroscience letters, 653, 320-325 
+
 - Pal D, Silverstein BH, Lee H, Mashour GA. (2016) [Neural correlate of wakefulness, sleep, and general anesthesia](https://pubs.asahq.org/anesthesiology/article/125/5/929/19746/Neural-Correlates-of-Wakefulness-Sleep-and-General). Anesthesiology, 125 (5), 929-942
 
 - Wang J, Lee H*, Kim S. (2015) [Assessing performance of directed functional connectivity measures in the presence of common source](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-16-S1-P124). BMC neuroscience, 16 (1), 124 (Conference proceeding)
@@ -49,6 +50,7 @@ Computational Neuroscientist, Machine Learning Researcher
 
 - Lee U, Lee H, Muller M, Noh GJ, Mashour GA. (2012) [Genuine and spurious phase synchronization strengths during consciousness and general anesthesia](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0046313.g002). PLOS One, 7, e46313
 
+(*Contribued as a corresponding author)
 
 
 # patents
