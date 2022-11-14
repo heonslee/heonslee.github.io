@@ -4,9 +4,10 @@
 
 Computational Neuroscientist, Machine Learning Researcher
 
-[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
-
 <img src="hlee-utah2.jpg" alt="Photo" width="200px" />
+
+
+[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
 
   I am a computational neuroscientist, analyzing and simulating neuronal firing activity and EEG data. My current research focuses on dynamical patterns in unconscious states (anesthesia, sleep, and disorders of consciousness) and its impact on machine learning tasks of spiking neural networks. Recurrent spiking neural network is constructed and forced to generate dynamic patterns of either conscious or unconscious state while performing various machine learning tasks. The result will suggest how slow oscillations and ordered dynamics are highly associated with unconsciousness or cognitive deficits.
 
