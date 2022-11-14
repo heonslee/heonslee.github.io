@@ -2,17 +2,44 @@
 
 [Publications](#publications) - [Patents](#patents) - [Talks](#talks)
 
-Computational Neuroscientist, Machine Learning Researcher
+Computational Neuroscientist, Machine Learning Researcher ([github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en))
 
 <img src="hlee-utah2.jpg" alt="Photo" width="200px" />
-
-
-[github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
 
   I am a computational neuroscientist, analyzing and simulating neuronal firing activity and EEG data. My current research focuses on dynamical patterns in unconscious states (anesthesia, sleep, and disorders of consciousness) and its impact on machine learning tasks of spiking neural networks. Recurrent spiking neural network is constructed and forced to generate dynamic patterns of either conscious or unconscious state while performing various machine learning tasks. The result will suggest how slow oscillations and ordered dynamics are highly associated with unconsciousness or cognitive deficits.
 
   My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to EEG signals at the macroscopic level. I postulate that the conscious brain operates near critical state, that is being at the boundary between order and disorder, and pharmacologically- and pathologically-perturbed brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method for measuring connectivity complexity between brain regions was proposed, and further developed as an algorithm for the device. Its clinical usefulness under anesthesia has been demonstrated. 
+
+# work & education
+* 2022-present: Research Scientist, LVIS
+  * In progress
+
+* 2021-2022: Research Scientist, Natural Intelligence Systems
+  * Development brain-inspired unsupervised machine learning model using Hebbian-based algorithms
+  * Performance tests for comparing developed neueromorphic model and existing DNN models
+  * Development of event-driven & energy efficient quantized machine learning model
+
+* 2016-2021: Postdoctoral Researcher, University of Michigan
+  * Advisor: Anthony G Hudetz; UnCheol Lee
+  * Analysis and computational modeling of neuronal firing activity and EEG data
+  * Proposed a network mechanism explaining the relationship between EEG functional connectivity and states of consciousness
+  * Proposed a common mechanism of loss of consciousness between various anesthetics and disorders of consciousness
+  * Investigation of neuronal firing dynamics and information flow between cortical neurons in conscious and unconscious states
+
+* Ph.D in Physics (nonlinear dynamics and complex systems), POSTECH, 2015
+  * Advisor: Seunghwan Kim
+  * Altered cortical communication in loss of consciousness
+  * Functional connectivity between multi-channel signals in the presence of common noises
+  * Developed a novel biomarker (US 10506970B2) for brain monitoring device
+  * Translating basic scientific study into clinical application in the multi-institutional project (company, university, and medical center)
+  * Led algorithm development team
+  * Communicating research outcome to clinicians, engineers, and government officials
+  * Active collaboration for data collections, clinical trials and product development
   
+* B.S. in Biology and Physics, Sungkyunkwan University, 2009
+
+
+
 
 # publications
 
