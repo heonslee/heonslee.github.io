@@ -1,6 +1,6 @@
 # Heonsoo Lee
 
-[Publications](#publications) - [Patents](#patents)
+[Publications](#publications) - [Patents](#patents) - [Talks](#talks)
 
 [github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en)
 
