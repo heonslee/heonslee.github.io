@@ -1,6 +1,6 @@
 # Heonsoo Lee
 
-[Works](#works) - [Education](#education) - [Publications](#publications) - [Patents](#patents) - [Talks](#talks)
+[Works](#works) - [Education](#education) - [Publications](#publications) - [Talks](#talks)
 
 Computational Neuroscientist, Machine Learning Researcher ([github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en))
 
@@ -33,6 +33,8 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 
 - Hudetz AG, Pillay S, Wang S, Lee H. (2020) [Desflurane anesthesia alters cortical layer-specific neuronal interactions in rat cerebral cortex](https://pubs.asahq.org/anesthesiology/article/132/5/1080/109040/Desflurane-Anesthesia-Alters-Cortical-Layer). Anesthesiology, 132 (5), 1080-1090
 
+- Kim S, Jung WS, Lee H, Noh GJ. (2019) [Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/US10506970B2/en). US Patent (granted) 
+
 - Lee H, Golkowski, D Jordan, S Berger, R Ilg, J Lee Mashour GA, Lee U. (2019) [Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain networks](https://doi.org/10.1016/j.neuroimage.2018.12.011). Neuroimage, 188, 228-238
 
 -  Lee H*, Zirui H, Liu X, Lee U, Hudetz AG. (2018) [Topographic reconfiguration of local dynamics and shared information after propofol-induced unconsciousness](https://doi.org/10.3390%2Fe20070518). Entropy, 20 (7), 518
@@ -42,6 +44,10 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 - Lee H*, Noh GJ, Joo P, Choi BM, Silverstein BH, Kim M, Wang J, Jung WS, Kim S. (2017) [Diversity of functional connectivity patterns is reduced in propofol-induced unconsciousness](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.23708). Human brain mapping, 38 (10), 4980-4995 
 
 - Wang J, Noh GJ, Choi BM, Ku SW, Joo P, Jung WS, Kim S, Lee H*. (2017) [Suppressed neural complexity during ketamine- and propofol-induced unconsciousness](https://www.sciencedirect.com/science/article/pii/S030439401730441X). Neuroscience letters, 653, 320-325 
+
+- Kim S, Jung WS, Lee H, Noh GJ. (2016) [의식 상태 모니터링 방법 및 장치, Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/KR101939574B1/ko). Korea Patent (granted) 
+
+- Kim S, Lee H. (2016) [뇌파 신호간 정보 흐름 측정 장치, Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
 
 - Pal D, Silverstein BH, Lee H, Mashour GA. (2016) [Neural correlate of wakefulness, sleep, and general anesthesia](https://pubs.asahq.org/anesthesiology/article/125/5/929/19746/Neural-Correlates-of-Wakefulness-Sleep-and-General). Anesthesiology, 125 (5), 929-942
 
@@ -53,17 +59,9 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 
 - Lee U, Lee H, Muller M, Noh GJ, Mashour GA. (2012) [Genuine and spurious phase synchronization strengths during consciousness and general anesthesia](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0046313.g002). PLOS One, 7, e46313
 
-(*corresponding author)
 
 
-# patents
 
-- Kim S, Jung WS, Lee H, Noh GJ. (2019) [Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/US10506970B2/en). US Patent (granted) 
-
-- Kim S, Jung WS, Lee H, Noh GJ. (2016) [의식 상태 모니터링 방법 및 장치, Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/KR101939574B1/ko). Korea Patent (granted) 
-
-
-- Kim S, Lee H. (2016) [뇌파 신호간 정보 흐름 측정 장치, Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
 
 
 # talks
