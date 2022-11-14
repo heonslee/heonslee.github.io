@@ -1,3 +1,4 @@
+title_suffix: ""
 # Heonsoo Lee
 
 [Publications](#publications)
