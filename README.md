@@ -10,7 +10,7 @@ Computational Neuroscientist, Machine Learning Researcher
 
   I am a computational neuroscientist, analyzing and simulating neuronal firing activity and EEG data. My current research focuses on dynamical patterns in unconscious states (anesthesia, sleep, and disorders of consciousness) and its impact on machine learning tasks of spiking neural networks. Recurrent spiking neural network is constructed and forced to generate dynamic patterns of either conscious or unconscious state while performing various machine learning tasks. The result will suggest how slow oscillations and ordered dynamics are highly associated with unconsciousness or cognitive deficits.
 
-  My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to EEG signals at the macroscopic level. I postulate that the conscious brain operates near critical state, that is being at the boundary between order and disorder, and pharmacologically- and pathologically-perturbed brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method (phase lag entropy) for measuring connectivity complexity between brain regions was proposed, and further developed as an algorithm for the device. Its clinical usefulness under anesthesia has been demonstrated. 
+  My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to EEG signals at the macroscopic level. I postulate that the conscious brain operates near critical state, that is being at the boundary between order and disorder, and pharmacologically- and pathologically-perturbed brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method for measuring connectivity complexity between brain regions was proposed, and further developed as an algorithm for the device. Its clinical usefulness under anesthesia has been demonstrated. 
   
 
 # publications
@@ -45,7 +45,7 @@ Computational Neuroscientist, Machine Learning Researcher
 
 - Lee U, Lee H, Muller M, Noh GJ, Mashour GA. (2012) [Genuine and spurious phase synchronization strengths during consciousness and general anesthesia](https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0046313.g002). PLOS One, 7, e46313
 
-(*Contribued as a corresponding author)
+(*corresponding author)
 
 
 # patents
@@ -58,6 +58,15 @@ Computational Neuroscientist, Machine Learning Researcher
 - Kim S, Lee H. (2016) [Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
 
 
+# talks
 
+- Neuronal dynamics in visual cortex under conscious and anesthetized conditions. Workshop on Scientific Study of Consciousness (2020)
 
+- Effects of anesthesia on coordinated neuronal activity and information processing in rat primary visual cortex. Organization for Computational Neuroscience (2019)
+
+- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018) 
+
+- Reconfiguration of functional connectivity patterns after administration of hypnotic agents. Seoul International Conference on Anesthesiology (2014)
+
+- Reconfiguration of network hub structure after anesthetic-induced unconsciousness. Postech-Kyutech Joint Workshop on Neuroinformatics (2014)
 
