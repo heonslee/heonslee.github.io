@@ -1,6 +1,6 @@
 # Heonsoo Lee
 
-[Work experience](#work) - [Education](#education)[Publications](#publications) - [Patents](#patents) - [Talks](#talks)
+[Works](#works) - [Education](#education) - [Publications](#publications) - [Patents](#patents) - [Talks](#talks)
 
 Computational Neuroscientist, Machine Learning Researcher ([github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en))
 
@@ -10,17 +10,15 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 
   My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to EEG signals at the macroscopic level. I postulate that the conscious brain operates near critical state, that is being at the boundary between order and disorder, and pharmacologically- and pathologically-perturbed brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method for measuring connectivity complexity between brain regions was proposed, and further developed as an algorithm for the device. Its clinical usefulness under anesthesia has been demonstrated. 
 
-# work experience
-* 2022-present: Research Scientist, LVIS
-* 2021-2022: Research Scientist, Natural Intelligence Systems
-* 2016-2021: Postdoctoral Researcher, University of Michigan
+# works
+* 2022-present: Research scientist, LVIS
+* 2021-2022: Research scientist, Natural Intelligence Systems
+* 2016-2021: Postdoctoral researcher, University of Michigan
 
 
 # education
 * Ph.D in Physics (nonlinear dynamics and complex systems), POSTECH, 2015
 * B.S. in Biology and Physics, Sungkyunkwan University, 2009
-
-
 
 
 # publications
@@ -65,7 +63,7 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 - Kim S, Jung WS, Lee H, Noh GJ. (2016) [의식 상태 모니터링 방법 및 장치, Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/KR101939574B1/ko). Korea Patent (granted) 
 
 
-- Kim S, Lee H. (2016) [Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
+- Kim S, Lee H. (2016) [뇌파 신호간 정보 흐름 측정 장치, Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
 
 
 # talks
