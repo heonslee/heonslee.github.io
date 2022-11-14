@@ -1,5 +1,3 @@
-
-
 # Heonsoo Lee
 
 [Publications](#publications)
