@@ -11,9 +11,11 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
   My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to multi-channel EEGs at the macroscopic level. I postulate that the conscious brain operates near critical state (i.e., being at the boundary between order and disorder) and anesthetized or damaged brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and computational modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method for measuring connectivity complexity between brain regions was proposed, and further developed as a brain monitoring algorithm. Its clinical usefulness under anesthesia has been demonstrated. 
 
 # works
-* 2022-present: Research scientist, LVIS
-* 2021-2022: Research scientist, Natural Intelligence Systems
-* 2016-2021: Postdoctoral researcher, University of Michigan
+* 2022-present: Clinical research scientist, LVIS
+* 2021-2022: Research scientist, Natural Intelligence
+* 2016-2021: Postdoctoral researcher, University of Michigan Medical School
+* 2011-2013: Visiting scholar, University of Michigan Medical School
+* 2011: Visting scholar, Korea Institute of Science and Technology
 
 
 # education
