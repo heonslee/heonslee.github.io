@@ -2,7 +2,7 @@
 
 [Works](#works) - [Education](#education) - [Publications](#publications) - [Talks](#talks)
 
-Computational Neuroscientist, Machine Learning Researcher ([github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en))
+Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin](https://www.linkedin.com/in/heonsoo-lee-167b7048/) - [google scholar](https://scholar.google.com/citations?user=tkmSmY8AAAAJ&hl=en))
 
 <img src="hlee-utah2.jpg" alt="Photo" width="200px" />
 
@@ -11,11 +11,11 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
   My past research focused on mechanisms of loss and recovery of consciousness. For this, my investigation covers from firing activity of neural networks at the mesoscopic level to multi-channel EEGs at the macroscopic level. I postulate that the conscious brain operates near critical state (i.e., being at the boundary between order and disorder) and anesthetized or damaged brains would be far away from critical state. My approach includes measuring statistical interdependency and information flow between brain signals (and between neurons), graph theoretical analysis, nonlinear dynamical methods, and computational modeling of brain signals. I have also worked on development of medical device for monitoring consciousness. A novel analytic method for measuring connectivity complexity between brain regions was proposed, and further developed as a brain monitoring algorithm. Its clinical usefulness under anesthesia has been demonstrated. 
 
 # works
-* 2022-present: Clinical research scientist, LVIS
-* 2021-2022: Research scientist, Natural Intelligence
-* 2016-2021: Postdoctoral researcher, University of Michigan Medical School
-* 2011-2013: Visiting scholar, University of Michigan Medical School
-* 2011: Visting scholar, Korea Institute of Science and Technology
+* 2022-present: Clinical Research Scientist, LVIS
+* 2021-2022: Research Scientist, Natural Intelligence
+* 2016-2021: Postdoctoral Researcher, University of Michigan Medical School
+* 2011-2013: Visiting Scholar, University of Michigan Medical School
+* 2011: Visting Scholar, Korea Institute of Science and Technology
 
 
 # education
@@ -68,13 +68,13 @@ Computational Neuroscientist, Machine Learning Researcher ([github](https://gith
 
 # talks
 
-- Neuronal dynamics in visual cortex under conscious and anesthetized conditions. Workshop on Scientific Study of Consciousness (2020)
+- Neuronal dynamics in visual cortex under conscious and anesthetized conditions. Workshop on Scientific Study of Consciousness (2020), Tucson, AZ, US
 
-- Effects of anesthesia on coordinated neuronal activity and information processing in rat primary visual cortex. Organization for Computational Neuroscience (2019)
+- Effects of anesthesia on coordinated neuronal activity and information processing in rat primary visual cortex. Organization for Computational Neuroscience (2019), Barcelona, Spain
 
-- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018) 
+- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018), Tucson, AZ, US
 
-- Reconfiguration of functional connectivity patterns after administration of hypnotic agents. Seoul International Conference on Anesthesiology (2014)
+- Reconfiguration of functional connectivity patterns after administration of hypnotic agents. Seoul International Conference on Anesthesiology (2014), Seoul, South Korea
 
-- Reconfiguration of network hub structure after anesthetic-induced unconsciousness. Postech-Kyutech Joint Workshop on Neuroinformatics (2014)
+- Reconfiguration of network hub structure after anesthetic-induced unconsciousness. Postech-Kyutech Joint Workshop on Neuroinformatics (2014), Kitakyshu, Japan
 
