@@ -72,7 +72,7 @@ Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin]
 
 - Effects of anesthesia on coordinated neuronal activity and information processing in rat primary visual cortex. Organization for Computational Neuroscience (2019), Barcelona, Spain
 
-- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018), Tucson, AZ, USAs
+- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018), Tucson, AZ, USA
 
 - Reconfiguration of functional connectivity patterns after administration of hypnotic agents. Seoul International Conference on Anesthesiology (2014), Seoul, South Korea
 
