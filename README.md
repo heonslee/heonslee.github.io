@@ -37,7 +37,7 @@ Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin]
 
 - Kim S, Jung WS, Lee H, Noh GJ. (2019) [Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/US10506970B2/en). US Patent (granted) 
 
-- Lee H, Golkowski, D Jordan, S Berger, R Ilg, J Lee Mashour GA, Lee U. (2019) [Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain networks](https://doi.org/10.1016/j.neuroimage.2018.12.011). Neuroimage, 188, 228-238
+- Lee H, Golkowski, D Jordan, S Berger, R Ilg, J Lee, Mashour GA, Lee U. (2019) [Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain networks](https://doi.org/10.1016/j.neuroimage.2018.12.011). Neuroimage, 188, 228-238
 
 -  Lee H*, Zirui H, Liu X, Lee U, Hudetz AG. (2018) [Topographic reconfiguration of local dynamics and shared information after propofol-induced unconsciousness](https://doi.org/10.3390%2Fe20070518). Entropy, 20 (7), 518
 
