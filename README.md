@@ -35,7 +35,7 @@ Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin]
 
 - Hudetz AG, Pillay S, Wang S, Lee H. (2020) [Desflurane anesthesia alters cortical layer-specific neuronal interactions in rat cerebral cortex](https://pubs.asahq.org/anesthesiology/article/132/5/1080/109040/Desflurane-Anesthesia-Alters-Cortical-Layer). Anesthesiology, 132 (5), 1080-1090
 
-- Kim S, Jung WS, Lee H, Noh GJ. (2019) [Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/US10506970B2/en). US Patent (granted) 
+- Kim S, Jung WS, Lee H, Noh GJ, Cha KC, Kim JK, Lee JK. (2019) [Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/US10506970B2/en). US Patent (granted) 
 
 - Lee H, Golkowski, D Jordan, S Berger, R Ilg, J Lee, Mashour GA, Lee U. (2019) [Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain networks](https://doi.org/10.1016/j.neuroimage.2018.12.011). Neuroimage, 188, 228-238
 
@@ -47,7 +47,7 @@ Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin]
 
 - Wang J, Noh GJ, Choi BM, Ku SW, Joo P, Jung WS, Kim S, Lee H*. (2017) [Suppressed neural complexity during ketamine- and propofol-induced unconsciousness](https://www.sciencedirect.com/science/article/pii/S030439401730441X). Neuroscience letters, 653, 320-325 
 
-- Kim S, Jung WS, Lee H, Noh GJ. (2016) [의식 상태 모니터링 방법 및 장치, Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/KR101939574B1/ko). Korea Patent (granted) 
+- Kim S, Jung WS, Lee H, Noh GJ, Cha KC, Kim JK, Lee JK. (2016) [의식 상태 모니터링 방법 및 장치, Methods and apparatus for monitoring consciousness](https://patents.google.com/patent/KR101939574B1/ko). Korea Patent (granted) 
 
 - Kim S, Lee H. (2016) [뇌파 신호간 정보 흐름 측정 장치, Information flow measuring apparatus](https://patents.google.com/patent/KR20160114406A/ko). Korea Patent (granted)
 
