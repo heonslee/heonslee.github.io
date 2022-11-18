@@ -68,11 +68,11 @@ Computational Neuroscientist ([github](https://github.com/heonslee) - [linkedin]
 
 # talks
 
-- Neuronal dynamics in visual cortex under conscious and anesthetized conditions. Workshop on Scientific Study of Consciousness (2020), Tucson, AZ, US
+- Neuronal dynamics in visual cortex under conscious and anesthetized conditions. Workshop on Scientific Study of Consciousness (2020), Tucson, AZ, USA
 
 - Effects of anesthesia on coordinated neuronal activity and information processing in rat primary visual cortex. Organization for Computational Neuroscience (2019), Barcelona, Spain
 
-- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018), Tucson, AZ, US
+- Connectivity complexity in pharmacologically and pathologically induced altered states of consciousness. Mini-Workshop on Scientific Study of Consciousness (2018), Tucson, AZ, USAs
 
 - Reconfiguration of functional connectivity patterns after administration of hypnotic agents. Seoul International Conference on Anesthesiology (2014), Seoul, South Korea
 
